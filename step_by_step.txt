@@ -1,0 +1,13 @@
+First we need to install Laravel 7
+
+Create models and migration (orders, items)
+
+Config database (MySQL)
+
+Set up a view for our store page.
+
+Create a NodeJS app that will handle our socket (for real time communication)
+
+Connect to our database (MySQL)
+
+(NodeJS) Talk to our Laravel Application.
