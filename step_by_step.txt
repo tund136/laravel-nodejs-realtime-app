@@ -2,12 +2,14 @@
 
 2. Create models and migration (orders, items)
 
-3. Config database (MySQL)
+3. Let's create a seeder for items.
 
-4. Set up a view for our store page.
+4. Config database (MySQL)
 
-5. Create a NodeJS app that will handle our socket (for real time communication)
+5. Set up a view for our store page.
 
-6. Connect to our database (MySQL)
+6. Create a NodeJS app that will handle our socket (for real time communication)
 
-7. (NodeJS) Talk to our Laravel Application.
+7. Connect to our database (MySQL)
+
+8. (NodeJS) Talk to our Laravel Application.
